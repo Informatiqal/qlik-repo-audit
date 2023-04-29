@@ -25,7 +25,7 @@
     "vite": "4.3.3"
   },
   "dependencies": {
-    "@roxi/routify": "2.18.11",
+    "@roxi/routify": "2.18.12",
     "jsondiffpatch": "github:countnazgul/jsondiffpatch",
     "sirv-cli": "2.0.2",
     "svelte-modals": "1.2.1"
