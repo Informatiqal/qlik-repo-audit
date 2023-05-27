@@ -22,7 +22,7 @@
     "rollup-plugin-svelte": "7.1.5",
     "rollup-plugin-terser": "7.0.2",
     "svelte": "3.59.1",
-    "vite": "4.3.8"
+    "vite": "4.3.9"
   },
   "dependencies": {
     "@roxi/routify": "2.18.12",
